@@ -30,6 +30,7 @@
     </dependency>
 
     <!-- log4j -->
+    <!-- https://mvnrepository.com/artifact/log4j/log4j -->
     <dependency>
       <groupId>log4j</groupId>
       <artifactId>log4j</artifactId>
@@ -105,7 +106,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
-      <version>5.1.5.RELEASE</version>
+      <version>5.2.4.RELEASE</version>
     </dependency>
 
 
@@ -179,11 +180,14 @@
       <artifactId>jackson-core</artifactId>
       <version>2.9.5</version>
     </dependency>
+
+
     <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-databind</artifactId>
-      <version>2.9.5</version>
+      <version>2.10.2</version>
     </dependency>
+
     <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-annotations</artifactId>
