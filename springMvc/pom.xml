@@ -15,7 +15,7 @@
 
     <groupId>lovo</groupId><!--指定组名,例如：org.apache.maven -->
     <artifactId>springMvc</artifactId><!--指定工程名例如：app -->
-    <packaging>war</packaging><!--The current core packaging values are: pom,
+    <packaging>jar</packaging><!--The current core packaging values are: pom,
 		jar, maven-plugin, ejb, war, ear, rar, par -->
     <version>0.0.1-SNAPSHOT</version>
 
